@@ -1,0 +1,17 @@
+BUS DEDSAFIO - mod Fabric Minecraft 1.21.1 (codigo fuente)
+
+Se compila en GitHub (pestana Actions) y baja busdedsafio-1.0.0.jar a tu carpeta mods (con Fabric API).
+
+OBJETOS (pestana creativa "Bus Dedsafio")
+- Bus Dedsafio: clic derecho en el suelo para ponerlo. Shift + golpe lo recoge.
+- Ticket rojo: clic derecho al bus con el ticket en la mano = asiento de adelante (conductor, 1 persona).
+- Ticket amarillo: clic derecho al bus = silla de atras (hasta 6 personas).
+
+CONTROLES DEL CONDUCTOR
+- W/S acelerar y reversa, A/D girar (en el suelo las ruedas giran).
+- Doble salto (Espacio dos veces) = vuelas como en creativo. Otra vez doble salto = bajas. Al tocar el suelo volando tambien se quita.
+- Volando: W A S D mueves, el bus mira hacia donde mira el jugador, Espacio sube, Ctrl baja. Las helices giran.
+- Shift = bajarse.
+
+SONIDOS: musica propia mientras hay conductor; sonido de helices al volar.
+SERVIDOR: para volar en servidor dedicado pon allow-flight=true en server.properties.

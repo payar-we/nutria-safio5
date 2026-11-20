@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "busdedsafio",
+  "version": "${version}",
+  "name": "Bus Dedsafio",
+  "description": "Autobus volador de Dedsafio con helices, ruedas, musica, 1 asiento de conductor y silla de 6, y tickets rojo y amarillo.",
+  "authors": ["Nutria"],
+  "license": "CC0-1.0",
+  "icon": "assets/busdedsafio/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.busdedsafio.BusMod"],
+    "client": ["com.busdedsafio.client.BusClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

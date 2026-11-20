@@ -1,0 +1,10 @@
+{
+ "itemGroup.busdedsafio.bus": "Dedsafio Bus",
+ "item.busdedsafio.bus": "Dedsafio Bus",
+ "item.busdedsafio.ticket_rojo": "Red ticket (front seat)",
+ "item.busdedsafio.ticket_amarillo": "Yellow ticket (6-seat bench)",
+ "entity.busdedsafio.bus": "Dedsafio Bus",
+ "message.busdedsafio.need_ticket": "You need a red ticket (front) or a yellow ticket (back)",
+ "message.busdedsafio.driver_taken": "The front seat is taken",
+ "message.busdedsafio.back_full": "The back bench is full (6 people)"
+}
